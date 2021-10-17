@@ -1,0 +1,16 @@
+API (Application Programming Interface) helps in communication 
+and data exchange between two software systems. It is the channel which 
+connects two software systems communicate with one another.
+
+
+An API forms the middle layer of a three-layered application pyramid, 
+consisting of a data layer, a server layer and a presentation layer. 
+While the data layer is concerned with data storage and the presentation 
+layers are concerned with the user interface, the server layer is composed 
+of business logic that defines the way for users to interact with various 
+functions, features, and information. 
+
+RESTful API ==> plain text, html, xml, json
+SOAP ==> more secure, works with only xml
+
+
